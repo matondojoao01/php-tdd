@@ -12,5 +12,7 @@
             "email": "matondojoaokitemoco@outlook.pt"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
