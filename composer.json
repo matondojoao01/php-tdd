@@ -1,0 +1,16 @@
+{
+    "name": "matondo/php-tdd",
+    "description": "php with tdd",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matondo",
+            "email": "matondojoaokitemoco@outlook.pt"
+        }
+    ],
+    "require": {}
+}
